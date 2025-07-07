@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: anjwz32ub-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/anjwz32ub-python
